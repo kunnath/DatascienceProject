@@ -1,0 +1,5 @@
+spellchecker==0.5.7
+language_tool_python==2.6.3
+opencv-python-headless==4.5.3.56
+pytesseract==0.3.8
+Pillow==9.0.1
